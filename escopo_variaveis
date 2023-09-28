@@ -1,0 +1,5 @@
+variavel local -> começa com letra minuscula ou _
+variavel global -> começa com $
+variável de classe -> prefixo @@
+variavel de instância -> Prefixo @
+
