@@ -1,6 +1,6 @@
 class User
     def add(name)
-        @name = name # Variável de instância
+        @name = name # Variável de instância 
         puts "User adicionado"
         hello
     end
